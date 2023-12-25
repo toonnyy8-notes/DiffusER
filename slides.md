@@ -23,15 +23,34 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+title: DiffusER
+mdc: true
+download: true
 ---
 
-# DiffusER
+# [DiffusER](https://iclr.cc/virtual/2023/poster/11184)
 
 ## **Diffus**ion via **E**dit-based **R**econstruction
 
-Machel Reid, Vincent Josua Hellendoorn, Graham Neubig
+Machel Reid$^{1}$,
+Vincent Josua Hellendoorn$^2$,
+Graham Neubig$^3$
 
-### ICLR 2023
+$^1$Google Research;
+$^2$Software and Societal Systems Department
+Carnegie Mellon University;  
+$^3$Language Technologies Institute,
+Carnegie Mellon University
+Inspired Cognition;
+
+## ICLR 2023
+
+<div class="abs-br m-6 flex gap-2">
+  <a href="https://github.com/toonnyy8-notes/DiffusER" target="_blank" alt="GitHub"
+    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
+    <carbon-logo-github />
+  </a>
+</div>
 
 ---
 
